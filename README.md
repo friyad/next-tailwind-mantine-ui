@@ -1,1 +1,1 @@
-## Complete Boilerplate for Next JS Project with Mantine UI & Tailwind css
+## Next.js Mantine UI Tailwind CSS Boilerplate
