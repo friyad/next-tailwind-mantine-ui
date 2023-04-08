@@ -1,0 +1,79 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+<<<<<<< HEAD
+/node_modules
+=======
+node_modules
+>>>>>>> a57e58cdbb0406c2cb07296074359ed9442b0b80
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+<<<<<<< HEAD
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+=======
+cypress/videos
+cypress/screenshots
+cypress/fixtures/example.json
+
+# next.js
+.next/
+out/
+.idea/
+
+# production
+build
+dist
+storybook-static
+
+# misc
+.DS_Store
+.eslintcache
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+>>>>>>> a57e58cdbb0406c2cb07296074359ed9442b0b80
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+<<<<<<< HEAD
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+=======
+debug.log*
+
+**/config/abi/types
+
+
+# Sentry
+.sentryclirc
+
+# turbo
+.turbo
+>>>>>>> a57e58cdbb0406c2cb07296074359ed9442b0b80
