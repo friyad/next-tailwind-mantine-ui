@@ -1,4 +1,4 @@
-## Next.js Mantine UI Tailwind CSS Boilerplate by Friyad
+# Next.js Mantine UI Tailwind CSS Boilerplate by Friyad
 
 This boilerplate is built with Next.js, Mantine UI, and Tailwind CSS.
 
